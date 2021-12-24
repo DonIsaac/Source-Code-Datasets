@@ -1,5 +1,0 @@
-scp
-sftp
-unix
-solaris server
-sun tools

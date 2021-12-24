@@ -1,2 +1,0 @@
-Response.Cookies[cookieName].Path = Request.ApplicationPath + "/";
-

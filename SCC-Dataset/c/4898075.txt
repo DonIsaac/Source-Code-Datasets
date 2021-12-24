@@ -1,23 +1,3 @@
-Number of worker tasks = 4
-   sending 1-th element q=0.011000 to task 1
-   sending 2-th element q=0.012000 to task 2
-   received 1-th element q=0.011000 in task 1
-   processed 1-th element q=6.105000 in task 1
-   sending 3-th element q=0.013000 to task 3
-   received 2-th element q=0.012000 in task 2
-   processed 2-th element q=13.320000 in task 2
-   sending 4-th element q=0.014000 to task 4
-   received 3-th element q=0.013000 in task 3
-   processed 3-th element q=21.645000 in task 3
- starting to get data in MASTER
-   MASTER received 0-th element q=6.105000 from task 1
-   MASTER received 0-th element q=13.320000 from task 2
-   received 4-th element q=0.014000 in task 4
-   processed 4-th element q=31.080000 in task 4
-   MASTER received 0-th element q=21.645000 from task 3
-   MASTER received 0-th element q=31.080000 from task 4
- end
-
 #include "mpi.h"               /* required MPI library */
 #include <stdio.h>
 #include <math.h>

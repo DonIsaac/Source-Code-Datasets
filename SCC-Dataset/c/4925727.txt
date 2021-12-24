@@ -1,4 +1,0 @@
-CreateProcess
-CreateNamedPipe
-CreateFile
-ReadFile

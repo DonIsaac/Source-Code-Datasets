@@ -1,2 +1,0 @@
-.hover
-mouse on/off

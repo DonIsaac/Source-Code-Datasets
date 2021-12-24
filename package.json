@@ -1,0 +1,16 @@
+{
+  "name": "Source-Code-Datasets",
+  "version": "1.0.0",
+  "description": "A number of datasets containing examples of source code for training programming language models.",
+  "main": "index.js",
+  "repository": "git@github.com:DonIsaac/Source-Code-Datasets.git",
+  "author": "Don Isaac <donald.isaac@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts":{
+    "validate:html": "html-validate SCC-Dataset/html/*"
+  },
+  "devDependencies": {
+    "html-validate": "^6.1.4"
+  }
+}
